@@ -5,7 +5,7 @@ import java.util.Map;
  * Hash table is a better approach to search element
  */
 public class TwoSum {
-    public static void main() {
+    public static void main(String args[]) {
         int arr[] = {2, 7, 11, 5};
         int target = 9;
         BruteForce(arr, target);
